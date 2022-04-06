@@ -1,0 +1,19 @@
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\bin\Debug\DevActivity.exe.config
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\bin\Debug\DevActivity.exe
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\bin\Debug\DevActivity.pdb
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\bin\Debug\DevActivity.xml
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\bin\Debug\MySql.Data.dll
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.vbprojResolveAssemblyReference.cache
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.Form1.resources
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.Resources.resources
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.vbproj.GenerateResource.Cache
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.exe
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.xml
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.pdb
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.AddItems.resources
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.AddGroup.resources
+C:\Users\jjrey\Source\Repos\DevActivity\DevActivity\DevActivity\obj\Debug\DevActivity.ViewGroups.resources
+C:\Users\jjrey\Desktop\New folder\DevActivity\DevActivity\bin\Debug\DevActivity.exe.config
+C:\Users\jjrey\Desktop\New folder\DevActivity\DevActivity\obj\Debug\DevActivity.exe
+C:\Users\jjrey\Desktop\New folder\DevActivity\DevActivity\obj\Debug\DevActivity.xml
+C:\Users\jjrey\Desktop\New folder\DevActivity\DevActivity\obj\Debug\DevActivity.pdb

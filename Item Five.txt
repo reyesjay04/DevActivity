@@ -1,0 +1,10 @@
+SELECT * FROM `items` ORDER by price LIMIT 1
+SELECT * FROM `items` ORDER by price DESC limit 1 
+SELECT * FROM `items` WHERE active = 1
+SELECT * FROM `items` WHERE active = 0
+SELECT COUNT(id) FROM `items` GROUP BY group_id
+SELECT AVG(price) FROM `items` GROUP BY group_id
+SELECT AVG(price) FROM `items`
+SELECT COUNT(id) FROM `items` GROUP BY DATE_FORMAT(created_date, "%Y-%m-%d")
+SELECT SUM(price) FROM `items` GROUP BY group_id
+SELECT SUM(price) FROM `items`
